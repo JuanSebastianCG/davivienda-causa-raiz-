@@ -1,0 +1,8 @@
+# davivienda-causa-raiz
+
+conda create -n myenvdavivienda-causa-raiz
+conda activate myenvdavivienda-causa-raiz
+conda install python=3.11.4
+C:\Users\sgomezt\Documents\Proyectos\davivienda-causa-raiz
+pip install -r requirements.txt
+streamlit run main.py
